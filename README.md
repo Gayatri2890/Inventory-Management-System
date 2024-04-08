@@ -3,7 +3,7 @@ This is an Inventory management system
 How to Setup
 1. Clone Project
    
-    git clone https://github.com/Gayatri2890/inventory-management.git
+     git clone https://github.com/Gayatri2890/inventory-management.git
 
 
  
@@ -22,7 +22,7 @@ How to Setup
     
  4. Active virtual Environment
    
-     source venv/bin/activate
+      source venv/bin/activate
 
 
 
@@ -44,4 +44,4 @@ How to Setup
 
  8. Run Project
 
-    python manage.py runserver
+     python manage.py runserver
