@@ -8,9 +8,9 @@ How to Setup
 
  
 
-   2.Go To Project Directory
+ 2.Go To Project Directory
    
-   cd inventory-management
+    cd inventory-management
 
 
    
