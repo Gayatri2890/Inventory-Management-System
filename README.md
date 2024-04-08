@@ -6,13 +6,23 @@ How to Setup
  git clone https://github.com/Gayatri2890/inventory-management.git
 
    2.Go To Project Directory
-   cd inventory-managemen
- 3.Create Virtual Environment
-    python3 -m venv venv
    
+   cd inventory-management
+
+
+   
+ 3.Create Virtual Environment
+ 
+    python3 -m venv venv
+
+
+    
    4. Active virtual Environment
    
 source venv/bin/activate
+
+
+
 
     5.Install Requirements File
     
