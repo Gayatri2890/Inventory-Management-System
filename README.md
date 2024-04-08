@@ -3,7 +3,7 @@ This is an Inventory management system
 How to Setup
 
 
-  1. Clone Project
+1.Clone Project
    
      git clone https://github.com/Gayatri2890/inventory-management.git
 
@@ -46,10 +46,11 @@ How to Setup
  7.Create Super User
     
      python manage.py createsuperuser
+    
 
 
 
 
-  8. Run Project
+  8.Run Project
 
       python manage.py runserver
