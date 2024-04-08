@@ -20,29 +20,28 @@ How to Setup
 
 
     
-   4. Active virtual Environment
+ 4. Active virtual Environment
    
-source venv/bin/activate
+    source venv/bin/activate
 
 
 
-
-    5.Install Requirements File
+ 5.Install Requirements File
     
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-     6. Migrate Database
+ 6. Migrate Database
      
-python manage.py migrate
+    python manage.py migrate
 
 
 
-    7.Create Super User
+ 7.Create Super User
     
-python manage.py createsuperuser
+    python manage.py createsuperuser
 
 
 
-8. Run Project
+ 8. Run Project
 
-   python manage.py runserver
+    python manage.py runserver
