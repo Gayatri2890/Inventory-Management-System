@@ -35,9 +35,13 @@ pip install -r requirements.txt
      
 python manage.py migrate
 
+
+
     7.Create Super User
     
 python manage.py createsuperuser
+
+
 
 8. Run Project
 
