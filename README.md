@@ -5,6 +5,9 @@ How to Setup
    
  git clone https://github.com/Gayatri2890/inventory-management.git
 
+
+ 
+
    2.Go To Project Directory
    
    cd inventory-management
