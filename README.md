@@ -23,7 +23,7 @@ How to Setup
 
 
     
- 4. Active virtual Environment
+4.Active virtual Environment
    
       source venv/bin/activate
 
@@ -36,7 +36,7 @@ How to Setup
 
 
 
-  6. Migrate Database
+6.Migrate Database
      
      python manage.py migrate
 
