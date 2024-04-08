@@ -8,3 +8,5 @@ How to Setup
    2.Go To Project Directory
    
 cd inventory-management
+   3.Create Virtual Environment
+   python3 -m venv venv
