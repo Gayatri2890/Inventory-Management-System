@@ -1,7 +1,7 @@
 # Inventory-Management-System
 This is an Inventory management system 
 How to Setup
-1. Clone Project
+ 1. Clone Project
    
      git clone https://github.com/Gayatri2890/inventory-management.git
 
@@ -28,13 +28,13 @@ How to Setup
 
 
 
- 5.Install Requirements File
+  5.Install Requirements File
     
     pip install -r requirements.txt
 
 
 
- 6. Migrate Database
+  6. Migrate Database
      
      python manage.py migrate
 
