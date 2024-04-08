@@ -50,6 +50,6 @@ How to Setup
 
 
 
- 8. Run Project
+  8. Run Project
 
-     python manage.py runserver
+      python manage.py runserver
