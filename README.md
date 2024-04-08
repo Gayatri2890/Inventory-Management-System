@@ -19,6 +19,7 @@ How to Setup
     python3 -m venv venv
 
 
+
     
  4. Active virtual Environment
    
@@ -26,9 +27,12 @@ How to Setup
 
 
 
+
  5.Install Requirements File
     
     pip install -r requirements.txt
+
+
 
  6. Migrate Database
      
@@ -36,9 +40,11 @@ How to Setup
 
 
 
+
  7.Create Super User
     
-    python manage.py createsuperuser
+     python manage.py createsuperuser
+
 
 
 
